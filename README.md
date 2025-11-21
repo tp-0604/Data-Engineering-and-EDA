@@ -32,7 +32,7 @@ project-root/
 
 ## ⚙️ Environment Variables
 
-Create a `.env` file in the project root with your database credentials:
+Create a `.env` file in the project root with your Postgres database credentials:
 ```
 DB_HOST=your_host
 DB_PORT=5432
@@ -45,7 +45,7 @@ DB_NAME=your_database
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/tp-0604/Data-Engineering-and-EDA.git
 cd your-repo
 ```
 
