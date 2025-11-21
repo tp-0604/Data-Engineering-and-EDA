@@ -21,13 +21,10 @@ It is designed as a lightweight, modular pipeline that reads data, processes it,
 
 ## 📁 Folder Structure
 project-root/
-│
-├── __pycache__/          # Python cache files
-│
-├── app.py                # Streamlit application
-├── eda_pipeline.py       # EDA / data processing pipeline
-├── db_config.py          # PostgreSQL connection config
-├── .env                  # Environment variables (NOT committed)
-├── requirements.txt      # Python dependencies
-│
-└── README.md             # Project documentation (this file)
+├── pycache/ # Python cache files
+├── app.py # Streamlit application
+├── eda_pipeline.py # EDA / data processing pipeline
+├── db_config.py # PostgreSQL connection config
+├── .env # Environment variables (NOT committed)
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation (this file)
