@@ -1,4 +1,4 @@
-# Project Title
+# Python-Based EDA Pipeline with PostgreSQL Integration
 
 A simple end-to-end data exploration and visualization pipeline built using Python and Streamlit, with PostgreSQL for data storage.
 
